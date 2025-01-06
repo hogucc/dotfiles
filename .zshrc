@@ -127,6 +127,9 @@ alias dcp='docker-compose ps'
 # Webpack
 alias bwp='bin/webpack-dev-server'
 
+# Other
+alias beep='afplay /System/Library/Sounds/Ping.aiff'
+
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 eval "$(direnv hook zsh)"
