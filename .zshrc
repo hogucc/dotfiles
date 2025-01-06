@@ -118,11 +118,11 @@ alias be='bundle exec'
 alias br='bin/rails'
 
 # Docker
-alias dcu='docker-compose up'
-alias dcd='docker-compose down'
-alias dcb='docker-compose build'
-alias dce='docker-compose exec'
-alias dcp='docker-compose ps'
+alias dcu='docker compose up'
+alias dcd='docker compose down'
+alias dcb='docker compose build'
+alias dce='docker compose exec'
+alias dcp='docker compose ps'
 
 # Webpack
 alias bwp='bin/webpack-dev-server'
